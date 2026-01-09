@@ -1,1 +1,7 @@
-body { background-color: lightblue; } 
+body {
+    background-color: white;
+    font-family: Arial;
+    color: black;
+}
+
+h1 { color : red;}
